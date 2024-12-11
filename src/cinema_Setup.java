@@ -234,7 +234,7 @@ public class cinema_Setup {
                } else {
                   System.out.println("- Total Booked Seats: " + totalBook);
                }
-               System.out.println("- Total Available Seats: " + ((row * col) - totalBook));
+               System.out.println("- Total == Available Seats: " + ((row * col) - totalBook));
                System.out.println("+----------------------------------------------+");
 
                break;
